@@ -73,9 +73,9 @@ Objective / 目标:
 
 ## How to Use / 使用方法
 1. Clone the repository:
-   ```
-   git clone https://github.com/btxrrr/Applied-Analytics.git
-   ```
+```
+git clone https://github.com/btxrrr/Applied-Analytics.git
+```
 
 ##Assignment 1 / 作业1
 1. Navigate to the Assignment1_Clustering directory and explore the notebooks:
