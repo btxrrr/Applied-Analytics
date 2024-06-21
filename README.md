@@ -80,7 +80,7 @@ git clone https://github.com/btxrrr/Applied-Analytics.git
 ## Assignment 1 / 作业1
 1. Navigate to the Assignment1_Clustering directory and explore the notebooks:
 ```
-cd Assignment1_Clustering/"Jupyter Notebooks"
+cd Assignment1_Clustering/ "Jupyter Notebooks"
 ```
 2. Open the Jupyter Notebooks Clustering_KMeans.ipynb and Clustering_Hierarchical.ipynb to see the clustering analysis.
    打开Jupyter笔记本 Clustering_KMeans.ipynb 和 Clustering_Hierarchical.ipynb 以查看聚类分析。
