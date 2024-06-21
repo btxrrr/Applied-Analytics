@@ -80,7 +80,7 @@ git clone https://github.com/btxrrr/Applied-Analytics.git
 ## Assignment 1 / 作业1
 1. Navigate to the Assignment1_Clustering directory and explore the notebooks:
 ```
-cd applied-analytics-module/Assignment1_Clustering/Notebooks
+cd Assignment1_Clustering/Notebooks
 ```
 2. Open the Jupyter Notebooks Clustering_KMeans.ipynb and Clustering_Hierarchical.ipynb to see the clustering analysis.
    打开Jupyter笔记本 Clustering_KMeans.ipynb 和 Clustering_Hierarchical.ipynb 以查看聚类分析。
@@ -88,7 +88,7 @@ cd applied-analytics-module/Assignment1_Clustering/Notebooks
 ## Assignment 2 / 作业2
 1. Navigate to the Assignment2_TextAnalysis directory and explore the notebooks:
 ```
-cd applied-analytics-module/Assignment2_TextAnalysis/Notebooks
+cd Assignment2_TextAnalysis/Notebooks
 ```
 2. Open the Jupyter Notebooks Text_Preprocessing.ipynb and Text_Analysis.ipynb to see the text analysis.
    打开Jupyter笔记本 Text_Preprocessing.ipynb 和 Text_Analysis.ipynb 以查看文本分析。
